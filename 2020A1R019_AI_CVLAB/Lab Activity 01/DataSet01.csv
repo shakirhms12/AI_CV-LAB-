@@ -1,0 +1,5 @@
+A,B,C,D,E,F,G
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Sunny,High,High,Strong,Warm,Same,Yes
+Rainy,Cold,High,Strong,Warm,Change,No
+Sunny,Warm,High,Strong,Cool,Change,Yes
